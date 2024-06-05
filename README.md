@@ -1,9 +1,9 @@
 ### Hi there 👋
-I'm a Full Stack Developer with a passion for building scalable web applications and a love for continuous learning.
+I'm a Front End Developer with a passion for building scalable web applications and a love for continuous learning.
 
 **Professional Background:**
 
-With around 5 years of rich experience in full stack development, I have honed my skills in React, Node.js,javascript, ASP.NET, c# and SQL. I have collaborated with top Startups, Midsize Product Organizations, and Multibillion Conglomerates, delivering robust and efficient software solutions.
+With around 5 years of rich experience in development, I have honed my skills in React, Node.js,javascript, Next js, ASP.NET, c# and SQL. I have collaborated with top Startups, Midsize Product Organizations, and Multibillion Conglomerates, delivering robust and efficient software solutions.
 
 **Key Interests:**
 
