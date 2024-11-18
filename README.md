@@ -1,16 +1,16 @@
-### Hi there 👋
-I'm a Front End Developer with a passion for building scalable web applications and a love for continuous learning.
+👋 Hi, I’m Priya Gosai
+🚀 Front-End Developer | Problem Solver | Tech Enthusiast
 
-**Professional Background:**
+Experience: 4 years in software development, including 2-3 years with React and Node.js.
+Passionate about: Building scalable web applications and crafting seamless user experiences.
+Fun Fact: 1st Prize Winner in a city-level Hackathon! 🎉
 
-With around 5 years of rich experience in development, I have honed my skills in React, Node.js,javascript, Next js, ASP.NET, c# and SQL. I have collaborated with top Startups, Midsize Product Organizations, and Multibillion Conglomerates, delivering robust and efficient software solutions.
 
-**Key Interests:**
+⚡ What I Do
+Develop functional and engaging web applications using modern technologies.
+Collaborate with teams to deliver high-quality, user-centric solutions.
 
-I thrive on solving complex problems and creating seamless user experiences. As a social media and communication addict, I enjoy sharing knowledge and staying updated with the latest industry trends.
 
-**What Do I Do?**
-
-I convert ideas into functional and engaging web applications. Working closely with cross-functional teams, I identify, develop, and implement solutions that meet business needs and exceed user expectations. My goal is to bridge the gap between technical capabilities and user requirements, ensuring the delivery of high-quality software.
-
-Feel free to explore my repositories, and let's connect if you're interested in collaboration or just want to chat about tech!
+🌐 Let’s Connect
+LinkedIn: linkedin.com/in/priyagosai
+Email: devpriyagosai@gmail.com
