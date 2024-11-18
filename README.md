@@ -12,5 +12,5 @@ Collaborate with teams to deliver high-quality, user-centric solutions.
 
 
 🌐 Let’s Connect<br>
-LinkedIn: linkedin.com/in/priyagosai
+LinkedIn: linkedin.com/in/priyagosai<br>
 Email: devpriyagosai@gmail.com
