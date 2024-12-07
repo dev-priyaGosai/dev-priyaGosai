@@ -1,7 +1,7 @@
 👋 Hi, I’m Priya Gosai<br>
-🚀 Front-End Developer | Problem Solver | Tech Enthusiast
+🚀 Full stack Developer | Problem Solver | Tech Enthusiast
 
-Experience: 4 years in software development, including 2-3 years with React and Node.js.<br>
+Experience: 4 years in software development, including 2-3 years with javascript , c#, React and Node.js.<br>
 Passionate about: Building scalable web applications and crafting seamless user experiences.<br>
 Fun Fact: 1st Prize Winner in a city-level Hackathon! 🎉<br>
 
