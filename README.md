@@ -3,7 +3,6 @@
 
 Experience: 4 years in software development, with tech stack - javascript , c#, React and Node.js.<br>
 Passionate about: Building scalable web applications and crafting seamless user experiences.<br>
-Fun Fact: 1st Prize Winner in a city-level Hackathon! 🎉<br>
 
 
 ⚡ What I Do<br>
